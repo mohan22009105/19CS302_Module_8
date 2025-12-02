@@ -45,3 +45,8 @@ Explanation
 When we sum the integers 10 and 4, we get the integer 14. When we subtract the second number 4 from the first number 10, we get 6 as their difference.
 
 When we sum the floating-point numbers 4.0 and 2.0, we get 6.0. When we subtract the second number 2.0 from the first number 4.0, we get 2.0 as their difference.
+
+
+# output:
+
+<img width="851" height="202" alt="image" src="https://github.com/user-attachments/assets/41360e05-db1d-4ae7-b168-7fe998518f76" />
